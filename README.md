@@ -1,5 +1,3 @@
-## Hi, I'm Kwansik Nam.
-
 ### ✨ About ✨
 - iOS Developer
 - Product Designer
