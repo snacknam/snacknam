@@ -2,6 +2,7 @@
 - iOS Developer
 - Product Designer
 - 🏅 WWDC23 Swift Challenge Winner
+- 🎙️ KWDC23 Speaker
   
 <a href="https://kwansik.com"><img src="https://img.shields.io/badge/Portfolio-4285F4?style=flat-square&logo=googlechrome&logoColor=white&link=https://kwansik.com"/></a> <a href="https://velog.io/@snack"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white&link=https://velog.io/@snack"/></a>
 
