@@ -1,6 +1,8 @@
 ### 📚 About 📚
-- iOS Developer
-- Product Designer
+- Platform Designer
+- UX Engineer
+- iOS / Web Developer
+- 🍎 Apple Developer Academy 2nd Cohort
 - 🏅 WWDC23 Swift Challenge Winner
 - 🎙️ KWDC23 Speaker
   
